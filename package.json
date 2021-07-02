@@ -1,0 +1,21 @@
+{
+  "name": "NAS",
+  "version": "1.0.0",
+  "description": "* You are tasked with creating a NAS (Node Assistant Software) application. * Your NAS should be a helper software that can find and present various bits of information.",
+  "main": "NAS.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.1.1",
+    "moment": "^2.29.1",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
